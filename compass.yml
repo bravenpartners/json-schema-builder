@@ -1,0 +1,16 @@
+name: json-schema-builder
+id: ari:cloud:compass:bd84269d-c4b7-445c-9188-ea186927d000:component/030567c5-b655-4ed3-b52c-326da8d1b1bd/de6108a5-4b45-4405-a2c0-76c03118c8c0
+description: Visual JSON Schema editor for creating and manipulating JSON Schema definitions with an intuitive interface.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/bravenpartners/json-schema-builder
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
